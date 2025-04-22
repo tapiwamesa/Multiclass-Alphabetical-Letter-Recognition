@@ -1,4 +1,4 @@
-# 📄 Letter Recognition using Machine Learning
+# Letter Recognition using Machine Learning
 
 This project focuses on building and evaluating machine learning models to classify letters (A–Z) based on extracted features. It compares the performance of logistic regression and decision tree classifiers to determine the most accurate and reliable model for this task.
 
